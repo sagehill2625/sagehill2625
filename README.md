@@ -106,14 +106,14 @@
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
 
-<p><img align="center"
+<p style='text-align:center;'><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilagiwal&show_icons=true&locale=en&layout=compact"
         alt="sahilagiwal" /></p>
 
-<p>&nbsp;<img align="center"
+<p style='text-align:center;'>&nbsp;<img 
         src="https://github-readme-stats.vercel.app/api?username=sahilagiwal&show_icons=true&locale=en"
         alt="sahilagiwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilagiwal&" alt="sahilagiwal" />
+<p style='text-align:center;'><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilagiwal&" alt="sahilagiwal" />
 </p>
 
