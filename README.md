@@ -107,8 +107,9 @@
             height="40" /> </a> </p>
 
 <p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilagiwal&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilagiwal&layout=compact"
         alt="sahilagiwal" /></p>
+       
 
 <p align="center">&nbsp;<img 
         src="https://github-readme-stats.vercel.app/api?username=sahilagiwal&show_icons=true&locale=en"
