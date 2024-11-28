@@ -21,9 +21,7 @@
     <a href="https://linkedin.com/in/sahilagiwal" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sahilagiwal" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/sahil_agiwal/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="sahil agiwal" height="30" width="40" /></a>
+   
   
 </p>
 
