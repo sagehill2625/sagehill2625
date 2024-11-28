@@ -106,9 +106,7 @@
 
        
 
-<p align="center">&nbsp;<img 
-        src="https://github-readme-stats.vercel.app/api?username=sahilagiwal&show_icons=true&locale=en"
-        alt="sahilagiwal" /></p>
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilagiwal&" alt="sahilagiwal" />
 </p>
