@@ -104,8 +104,6 @@
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
 
-<p align="center"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilagiwal"
-        alt="sahilagiwal" /></p></p>
        
 
 <p align="center">&nbsp;<img 
