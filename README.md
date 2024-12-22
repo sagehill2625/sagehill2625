@@ -1,5 +1,5 @@
 [![MasterHead](https://i.ibb.co/yd1xrwk/Orange-Yellow-Geometric-Technology-Linkdin-Banner.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sahil Agiwal</h1>
+<h1 align="center">Hi 👋, I'm SageHill</h1>
 <h3 align="center">A passionate software developer</h3>
  <img
     src="https://komarev.com/ghpvc/?username=sahilagiwal&label=Profile%20views&color=0e75b6&style=flat"
@@ -94,6 +94,6 @@
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilagiwal&" alt="sahilagiwal" />
+
 </p>
 
